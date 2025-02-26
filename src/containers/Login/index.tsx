@@ -1,4 +1,4 @@
-import React from 'react'
+
 import "./index.scss"
 import { UserOutlined, LockOutlined } from '@ant-design/icons';
 import { GoogleOAuthProvider, GoogleLogin } from "@react-oauth/google";
