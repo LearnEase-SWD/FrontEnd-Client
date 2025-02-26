@@ -80,7 +80,7 @@ const Header = () => {
                                     <div className="main-menu__right">
                                         <div className="main-menu__right-login-register">
                                             <ul className="list-unstyled">
-                                                <li><a href="#">Login</a></li>
+                                                <li><a href="/login">Login</a></li>
                                                 <li><a href="#">Register</a></li>
                                             </ul>
                                         </div>
