@@ -49,7 +49,6 @@ const Login = () => {
                                                                 theme="outline"
                                                                 size="large"
                                                                 shape="pill"
-                                                                prompt="select_account"
                                                             />
                                                         </div>
                                                     </div>
